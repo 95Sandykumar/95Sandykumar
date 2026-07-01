@@ -97,24 +97,25 @@
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/95Sandykumar/snowflake-dbt-medallion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=95Sandykumar&repo=snowflake-dbt-medallion&hide_border=true&theme=tokyonight" alt="snowflake-dbt-medallion"/>
+  </a>
   <a href="https://github.com/95Sandykumar/route-bench">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=95Sandykumar&repo=route-bench&hide_border=true&theme=tokyonight" alt="route-bench"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/95Sandykumar/multi-agent-peers-playbook">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=95Sandykumar&repo=multi-agent-peers-playbook&hide_border=true&theme=tokyonight" alt="multi-agent-peers-playbook"/>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/95Sandykumar/crown-and-canvas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=95Sandykumar&repo=crown-and-canvas&hide_border=true&theme=tokyonight" alt="crown-and-canvas"/>
-  </a>
-  <a href="https://github.com/95Sandykumar/claude-code-playbook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=95Sandykumar&repo=claude-code-playbook&hide_border=true&theme=tokyonight" alt="claude-code-playbook"/>
   </a>
 </p>
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[snowflake-dbt-medallion](https://github.com/95Sandykumar/snowflake-dbt-medallion)** | Reference data platform: a Snowflake + dbt Bronze/Silver/Gold medallion with incremental models, tested marts, a scheduled Snowflake Task DAG, and a Snowpark ingestion procedure. Synthetic data, runnable, CI-checked. | Snowflake, dbt, Python |
 | **[route-bench](https://github.com/95Sandykumar/route-bench)** | Measures the cost / success / latency frontier of LLM model-routing policies — a reproducible eval harness across 3 task domains with confidence intervals and a Pareto frontier. | Python |
 | **[multi-agent-peers-playbook](https://github.com/95Sandykumar/multi-agent-peers-playbook)** | Production playbook for wiring `claude-peers-mcp` into multi-agent Claude Code systems. | TypeScript, MCP |
 | **[crown-and-canvas](https://github.com/95Sandykumar/crown-and-canvas)** | AI pet-portrait product generating 20 royal & fantasy styles. | TypeScript, Next.js |
