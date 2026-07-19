@@ -84,12 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=95Sandykumar&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=95Sandykumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95Sandykumar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=95Sandykumar&hide_border=true&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
